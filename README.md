@@ -2,7 +2,7 @@
 
 🎓 i'm a student specializing in data science and economics  
 🌱 currently reading Statistical Rethinking  
-💬 ask me about bridging the gap between data science and business decisions
+💬 ask me about bridging the gap between data science and business decisions  
 📫 reach me at beckerch@usc.edu  
 
 ## 🚀 tech stack
