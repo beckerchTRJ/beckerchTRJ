@@ -1,8 +1,6 @@
 # hi, i'm christian.
 
-data science + economics, based in los angeles. usc '25 — ms in applied data science, bs in economics & data science.
-
-i like questions where the statistics have to survive contact with the real world: does library access actually move graduation rates? which kinds of bias show up in comedy films? can a careful model beat a betting market? (so far: no.)
+data science + economics, based in austin. usc '25 — ms in applied data science, bs in economics & data science.
 
 ## selected work
 
